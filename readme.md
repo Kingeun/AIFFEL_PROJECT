@@ -28,7 +28,7 @@
 |   |Content|PROJECT|
 |---|---|---|
 |논문|네트워크[(click🚀)](https://github.com/Kingeun/AIFFEL_PROJECT/blob/main/GoingDeeper_01/%EB%B0%B1%EB%B3%B8_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EA%B5%AC%EC%A1%B0_%EC%83%81%EC%84%B8%EB%B6%84%EC%84%9D.ipynb)|AbloationStudy[(click🚀)]|
-|   |Data Augmentation[(click🚀)]|Random Augmentation(CutMix,Mixup)[(click🚀)]()|
+|   |Data Augmentation[(click🚀)]|Random Augmentation(CutMix,Mixup)[(click🚀)]|
 |   |Class Activation Map[(click🚀)](https://github.com/Kingeun/AIFFEL_PROJECT/tree/main/GoingDeeper_05)|CAM, Grad-CAM model[(click🚀)](https://github.com/Kingeun/AIFFEL_PROJECT/blob/main/GoingDeeper_06/Class_Activation_Map_%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)|
-|   |Object Detection[(click🚀)]()|자율주행 보조 시스템 만들기[(click🚀)]()|
+|   |Object Detection[(click🚀)]|자율주행 보조 시스템 만들기[(click🚀)]()|
 |   |Segmentation[(click🚀)](https://github.com/Kingeun/AIFFEL_PROJECT/blob/main/GoingDeeper_07/Object_Detection%20(1).ipynb)|Semantic Segmentation을 이용해 도로영역표시[(click🚀)]|
