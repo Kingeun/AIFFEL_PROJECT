@@ -24,7 +24,7 @@
 |  CV|Conditioanl GAN|Pix2Pix Segmentation map으로 도로 이미지 만들기[(click🚀)](https://github.com/Kingeun/AIFFEL_PROJECT/blob/main/EXPLORATION_19/EX19_Pix2Pix.ipynb)|
 
 
-## Going Deeper(Computer Vision)
+## Going Deeper(Computer Vision)_추가_
 |   |Content|PROJECT|
 |---|---|---|
 |논문|네트워크[(click🚀)](https://github.com/Kingeun/AIFFEL_PROJECT/blob/main/GoingDeeper_01/%EB%B0%B1%EB%B3%B8_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EA%B5%AC%EC%A1%B0_%EC%83%81%EC%84%B8%EB%B6%84%EC%84%9D.ipynb)|AbloationStudy[(click🚀)]|
