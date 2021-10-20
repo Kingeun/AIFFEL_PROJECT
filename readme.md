@@ -25,3 +25,10 @@
 
 
 ## Going Deeper(Computer Vision)
+|   |Content|PROJECT|
+|---|---|---|
+|논문|네트워크[(click🚀)]()|AbloationStudy[(click🚀)]()|
+|   |Data Augmentation[(click🚀)]()|Random Augmentation(CutMix,Mixup)[(click🚀)]()|
+|   |Class Activation Map[(click🚀)]()|CAM, Grad-CAM model[(click🚀)]()|
+|   |Object Detection[(click🚀)]()|자율주행 보조 시스템 만들기[(click🚀)]()|
+|   |Segmentation[(click🚀)]|Semantic Segmentation을 이용해 도로영역표시[(click🚀)]|
