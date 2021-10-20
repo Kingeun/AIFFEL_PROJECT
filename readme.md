@@ -1,7 +1,7 @@
 # AIFFEL 프로젝트
 
 ## Exploration
-|CV,NLP,추천|Classification   |PROJECT   |
+||Classification   |PROJECT   |
 |---|---|---|
 |   |Image Classification|가위바위보 분류기[(click🚀)](https://github.com/Kingeun/AIFFEL_PROJECT/blob/main/EXPLORATION_1/R_S_P.ipynb)|
 |   |Classification|digits손글씨분류,wine와인분류,breast_cancer유방암 여부진단[(click🚀)](https://github.com/Kingeun/AIFFEL_PROJECT/tree/main/EXPLORATION_2)|
