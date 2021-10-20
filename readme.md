@@ -3,7 +3,7 @@
 ## Exploration
 |Exp|Lecture   |PROJECT   |
 |---|---|---|
-| 1  |Image Classification|가위바위보 분류기[ckick](https://github.com/Kingeun/AIFFEL_PROJECT/blob/main/EXPLORATION_1/R_S_P.ipynb)|
+| 1  |Image Classification|가위바위보 분류기[(click🚀)](https://github.com/Kingeun/AIFFEL_PROJECT/blob/main/EXPLORATION_1/R_S_P.ipynb)|
 |  2 |Classification|digits손글씨분류,wine와인분류,breast_cancer유방암 여부진단|
 |  3 |Face Detection|고양이수염 스티커 만들기|
 |  4 |Text Generation|작사가 만들기|
