@@ -1,7 +1,7 @@
 # AIFFEL 프로젝트
 
 ## Exploration
-|Exploration|Lecture   |PROJECT   |
+|Exp|Lecture   |PROJECT   |
 |---|---|---|
 | 1  |Image Classification|가위바위보 분류기|
 |  2 |Classification|digits손글씨분류,wine와인분류,breast_cancer유방암 여부진단|
